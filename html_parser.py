@@ -23,7 +23,7 @@ csv_block = str(soup.find_all(type='application/ld+json'))
 re_split = re.compile(r'"ratingValue":.*?,')
 tomatometer = (re_split.findall(csv_block)[0]).lstrip('"ratingValue:').rstrip(',') + '%'
 
-# Use that beautiful and delicious soup to find the audience score
+# Use that beautiful soup to find the audience score
 audience_score = soup.find(class_='superPageFontColor', style='vertical-align:top').string
 
 # Dictionary containing relevant information from page.
