@@ -2,27 +2,13 @@
    from it to be used elsewhere."""
 
 from bs4 import BeautifulSoup
-from platform import uname
 import re
-import url_request
-
-
-directory_prefix = '/'
-
-if uname()[0] == 'Windows':
-    directory_prefix = '\\'
-
-# This function creates a path to a specified file
-def access_file(*args):
-    file_path = ''
-    for arg in args:
-        file_path += directory_prefix + arg
-    return(file_path.lstrip(directory_prefix))
+import tomatoes_request
+from file_access import access_file
 
 # Create soup from file
 file_read = open(access_file('tmp_html_file.txt'))
 soup = BeautifulSoup(file_read, 'html.parser')
-
 
 # Parse csv block found in soup using regex to find & format tomatometer score
 json_block = str(soup.find_all(type='application/ld+json'))

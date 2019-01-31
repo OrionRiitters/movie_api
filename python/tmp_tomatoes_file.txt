@@ -55,7 +55,7 @@
         
             
                 <script type="application/ld+json">
-                {"@context":"http://schema.org","@type":"Movie","name":"The Matrix","contentRating":"R","dateModified":"2019-01-29T06:18:57-08:00","dateCreated":"2005-11-20T14:49:49-08:00","url":"https://www.rottentomatoes.com/m/matrix","datePublished":null,"productionCompany":{"@type":"Organization","name":"Warner Bros. Pictures"},"aggregateRating":{"@type":"AggregateRating","name":"Tomatometer","description":"The Tomatometer rating – based on the published opinions of hundreds of film and television critics – is a trusted measurement of movie and TV programming quality for millions of moviegoers. It represents the percentage of professional critic reviews that are positive for a given film or television show.","bestRating":"100","worstRating":"0","ratingValue":88,"reviewCount":144},"review":[{"@type":"Review","reviewBody":"A technologically stunning movie that furthers the genre and features crowd-pleasing performances to go with the frequent scenes of gunplay and violence. ","url":"http://www.hollywoodreporter.com/news/matrix-read-thrs-1999-review-743651","dateCreated":"2015-10-03T05:55:12-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-hunter","name":"David Hunter"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Hollywood Reporter","url":"https://www.rottentomatoes.com/source-213"}},{"@type":"Review","reviewBody":"Extremely violent, extremely preposterous, extremely entertaining, The Matrix succeeds at two extremely difficult tasks: as a vast, exciting virtual-reality movie and as a defibrillator for Keanu Reeves' big screen career.","url":"http://community.seattletimes.nwsource.com/archive/?date=19990331&slug=2952431","dateCreated":"2013-10-21T10:50:44-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/keith-simanton","name":"Keith Simanton"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Seattle Times","url":"https://www.rottentomatoes.com/source-505"}},{"@type":"Review","reviewBody":"The movie is nonsense, but it does achieve a brazenly chic high style -- black-on-black, airborne, spasmodic.","url":null,"dateCreated":"2013-10-21T09:57:26-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-denby","name":"David Denby"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"New Yorker","url":"https://www.rottentomatoes.com/source-924"}},{"@type":"Review","reviewBody":"The Wachowskis and cinematographer Bill Pope take advantage of currently available technical trickery to create visually distinct levels of reality while setting high-speed cameras in motion to make the action sequences particularly dynamic and fluid.","url":"http://articles.chicagotribune.com/1999-03-31/features/9903310365_1_neo-matrix-bound","dateCreated":"2013-10-21T09:43:20-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/mark-caro","name":"Mark Caro"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Chicago Tribune","url":"https://www.rottentomatoes.com/source-68"}},{"@type":"Review","reviewBody":"Where other films are done in by the freedom offered by computer effects, The Matrix integrates them beautifully.","url":null,"dateCreated":"2013-10-21T09:39:10-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/keith-phipps","name":"Keith Phipps"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"AV Club","url":"https://www.rottentomatoes.com/source-833"}},{"@type":"Review","reviewBody":"With an arsenal of cool f/x at their disposal, they've come up with a dizzyingly enjoyable junk movie that has just enough on its mind to keep the pleasure from being a guilty one.","url":"http://www.newsweek.com/what-cyberdreams-may-come-164746","dateCreated":"2007-10-31T20:15:21-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-ansen","name":"David Ansen"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Newsweek","url":"https://www.rottentomatoes.com/source-339"}},{"@type":"Review","reviewBody":"Full to the brim with eye-popping effects and \"How'd they do that?\" stuntwork, it yearns to have audiences be utterly enraptured in its created reality.","url":"http://www.zakiscorner.com/2014/04/zakis-original-review-matrix.html","dateCreated":"2018-11-16T04:55:21-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/zaki-hasan","name":"Zaki Hasan"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Zaki's Corner","url":"https://www.rottentomatoes.com/source-3251"}},{"@type":"Review","reviewBody":"The Matrix embedded itself in pop culture so thoroughly that it's easy to forget how different it was when it first arrived.","url":"http://cinema-stache.com/movies-for-the-resistance-the-matrix/","dateCreated":"2017-08-22T06:12:16-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/rob-vaux","name":"Rob Vaux"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinema-stache","url":"https://www.rottentomatoes.com/source-2712"}},{"@type":"Review","reviewBody":"The Matrix has become such a touchstone of American pop culture-referenced, copied, parodied, and parroted)-that it's hard to remember just how new and different and distinctive it was when it debuted in 1999.","url":"http://streamondemandathome.com/matrix-trilogy-amazon-prime-streaming-vod/","dateCreated":"2016-08-21T11:37:52-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/sean-axmaker","name":"Sean Axmaker"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Seanax.com","url":"https://www.rottentomatoes.com/source-1938"}},{"@type":"Review","reviewBody":"The effects are astonishing. It's funny, it's dark, it's smart and it's filled with guns, lots of guns. A landmark film and quite possibly the ultimate expression of cyberpunk.","url":"http://www.film4.com/reviews/1999/the-matrix","dateCreated":"2013-10-21T10:47:38-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/film4-staff","name":"Film4 Staff"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Film4","url":"https://www.rottentomatoes.com/source-1396"}},{"@type":"Review","reviewBody":"Hang on tight for a real mind-blower, with astonishing visual effects, frightening monsters and exciting stunt fights.","url":"http://articles.sun-sentinel.com/1999-03-31/lifestyle/9903300682_1_matrix-virtual-reality-reality-bytes","dateCreated":"2013-10-21T10:42:40-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/tom-sander","name":"Tom Sander"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"South Florida Sun-Sentinel","url":"https://www.rottentomatoes.com/source-506"}},{"@type":"Review","reviewBody":"The Matrix is a movie experience like no other, and experience is what it's all about. It explodes with dazzling visuals and a transcendent sense of excitement.","url":"http://articles.baltimoresun.com/1999-03-31/features/9903310350_1_called-the-matrix-named-morpheus-agent-smith","dateCreated":"2013-10-21T10:39:55-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/chris-kridler","name":"Chris Kridler"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Baltimore Sun","url":"https://www.rottentomatoes.com/source-36"}},{"@type":"Review","reviewBody":"Thematically complex, yet intelligently integrating eastern philosophy, Lewis Carroll and ancient mysticism.","url":"http://www.radiotimes.com/film/rk5b/the-matrix?ref=Article.TagBottom","dateCreated":"2013-10-21T10:03:45-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/alan-jones","name":"Alan Jones"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Radio Times","url":"https://www.rottentomatoes.com/source-2290"}},{"@type":"Review","reviewBody":"Writer/director siblings the Wachowskis have gone further with the action genre than you'd have ever thought possible.","url":"http://www.totalfilm.com/reviews/cinema/the-matrix","dateCreated":"2013-10-21T10:01:26-07:00","author":{"@type":"Person","url":"","name":"NA"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Total Film","url":"https://www.rottentomatoes.com/source-451"}},{"@type":"Review","reviewBody":"The Matrix is tough to explain, but then how much explaining does an amusement park ride require?","url":"http://www.people.com/people/archive/article/0,,20127839,00.html","dateCreated":"2013-10-21T10:00:12-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/leah-rozen","name":"Leah Rozen"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"People Magazine","url":"https://www.rottentomatoes.com/source-856"}},{"@type":"Review","reviewBody":"Inspired by different sources (including Japanese anime), The Matrix is a new kind of movie, a visionary mixture of technology, philosophy and thrilling action.","url":"http://www.emanuellevy.com/review/matrix-the-1999/","dateCreated":"2012-07-01T07:05:09-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/emanuel-levy","name":"Emanuel Levy"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"EmanuelLevy.Com","url":"https://www.rottentomatoes.com/source-1626"}},{"@type":"Review","reviewBody":"It's that balance between blockbuster-style action sequences and in-depth philosophical undertones that I've always admired about The Matrix.","url":"http://www.notcoming.com/reviews/thematrix/","dateCreated":"2011-01-26T21:15:04-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/leo-goldsmith","name":"Leo Goldsmith"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Not Coming to a Theater Near You","url":"https://www.rottentomatoes.com/source-974"}},{"@type":"Review","reviewBody":"Intense, but many teens will be able to handle it.","url":"http://www.commonsensemedia.org/movie-reviews/Matrix.html ","dateCreated":"2010-12-28T12:16:35-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/nell-minow","name":"Nell Minow"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Common Sense Media","url":"https://www.rottentomatoes.com/source-1682"}},{"@type":"Review","reviewBody":"Exemplifies the idea that a sufficiently cool outcome justifies all of the tortured narrative it takes to get there.","url":"http://antagonie.blogspot.com/2010/07/blockbuster-history-mindfcking.html","dateCreated":"2010-07-21T18:06:16-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/tim-brayton","name":"Tim Brayton"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Antagony & Ecstasy","url":"https://www.rottentomatoes.com/source-1900"}},{"@type":"Review","reviewBody":"Other than some caveats, this is an innovative and original science fiction entry...","url":"http://cinemacrazed.wordpress.com/2000/05/05/the-matrix-1999/","dateCreated":"2009-04-28T20:15:50-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/felix-vasquez-jr","name":"Felix Vasquez Jr."},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinema Crazed","url":"https://www.rottentomatoes.com/source-1879"}},{"@type":"Review","reviewBody":"The original Matrix stands perfectly well on its own, despite the fact that the filmmakers went on with second and third episodes.","url":"http://www.dvdtown.com/reviews/blu-ray-matrix-the/6880","dateCreated":"2009-04-06T03:36:32-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/john-j-puccio","name":"John J. Puccio"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Movie Metropolis","url":"https://www.rottentomatoes.com/source-745"}},{"@type":"Review","reviewBody":"Dimension-hopping has never been so exhilarating and breathlessly lyrical as brilliant visuals and bracing Hong Kong action stunts punch through lengthy streams of technobabble.","url":"http://www.newsreview.com/sacramento/Content?oid=6519","dateCreated":"2008-08-06T20:16:06-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/mark-halverson","name":"Mark Halverson"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Sacramento News & Review","url":"https://www.rottentomatoes.com/source-599"}},{"@type":"Review","reviewBody":"The surprise sleeper success of 1999, this ingenious science fiction thriller easily surpassed The Phantom Menace.","url":"http://cinefantastiqueonline.com/1999/06/01/film-review-the-matrix-1999","dateCreated":"2008-07-15T14:24:41-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/steve-biodrowski","name":"Steve Biodrowski"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinefantastique","url":"https://www.rottentomatoes.com/source-2144"}},{"@type":"Review","reviewBody":"The paranoid details of the premise are thoroughly worked out; the characters and motives, much less so.","url":"http://efilmcritic.com/review.php?movie=722&reviewer=416","dateCreated":"2008-03-11T13:28:59-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/rob-gonsalves","name":"Rob Gonsalves"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"eFilmCritic.com","url":"https://www.rottentomatoes.com/source-141"}}],"image":"https://resizing.flixster.com/VpOcmXnrMG1pZEbHGYeD7h2HH8Y=/740x290/v1.bjsxMjIyNTE7ajsxNzk1NjsxMjAwOzMwMDA7MTUwMA","actors":[{"@type":"Person","name":"Keanu Reeves","sameAs":"https://www.rottentomatoes.com/celebrity/keanu_reeves","image":"https://resizing.flixster.com/fs6CbJwfb8Nkigl0Ud8KaBmEB8I=/448x600/v1.cjsxMDYyODtqOzE3OTU1OzEyMDA7NDQ4OzYwMA"},{"@type":"Person","name":"Laurence Fishburne","sameAs":"https://www.rottentomatoes.com/celebrity/laurence_fishburne","image":"https://resizing.flixster.com/XEQT8mc1waKBZ6UL6xC071FnSog=/275x230/v1.cjs0MDU2MjtqOzE3OTU1OzEyMDA7Mjc1OzIzMA"},{"@type":"Person","name":"Carrie-Anne Moss","sameAs":"https://www.rottentomatoes.com/celebrity/carrieanne_moss","image":"https://resizing.flixster.com/JaF4yaYXOOC2Wsv7V6wEfV2UaaY=/504x652/v1.cjsxOTM0MDtqOzE3OTU1OzEyMDA7NTA0OzY1Mg"},{"@type":"Person","name":"Joe Pantoliano","sameAs":"https://www.rottentomatoes.com/celebrity/joe_pantoliano","image":"https://resizing.flixster.com/QrpVScax1yOb1lsl9wAwqMotaAc=/540x720/v1.bjs3OTc5MzI7ajsxNzk2NDsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"Hugo Weaving","sameAs":"https://www.rottentomatoes.com/celebrity/hugo_weaving","image":"https://resizing.flixster.com/ZftaoMRkYGuNa7KjEAMUEFasVvU=/1000x1500/v1.bjs3ODYyODA7ajsxNzk2NDsxMjAwOzEwMDA7MTUwMA"},{"@type":"Person","name":"Belinda McClory","sameAs":"https://www.rottentomatoes.com/celebrity/belinda-mcclory","image":"https://resizing.flixster.com/R9u_WLz0lUjMqMA-cLKTj9Vvu28=/298x370/v1.bjs3NzAyODY7ajsxNzk2MzsxMjAwOzI5ODszNzA"},{"@type":"Person","name":"Marcus Chong","sameAs":"https://www.rottentomatoes.com/celebrity/marcus_chong","image":"https://resizing.flixster.com/WghLL0_-Ev1ssdn_s8_JxdX552M=/367x400/v1.bjs3NzU0NTE7ajsxNzk2MzsxMjAwOzM2Nzs0MDA"},{"@type":"Person","name":"Robert Taylor (VII)","sameAs":"https://www.rottentomatoes.com/celebrity/771086972","image":"https://resizing.flixster.com/nkMsr7R6iyQCGiWPfkhmYKArq10=/214x317/v1.cjs0Mjk2NztqOzE3OTU1OzEyMDA7MjE0OzMxNw"},{"@type":"Person","name":"Julian \"Sonny\" Arahanga","sameAs":"https://www.rottentomatoes.com/celebrity/julian_sonny_arahanga"},{"@type":"Person","name":"Matt Doran","sameAs":"https://www.rottentomatoes.com/celebrity/matt-doran","image":"https://resizing.flixster.com/Nt5htdYfpHZteBO1yBISnmmwAkk=/300x200/v1.bjsyOTE0MjU7ajsxNzk1ODsxMjAwOzMwMDsyMDA"},{"@type":"Person","name":"Paul Goddard","sameAs":"https://www.rottentomatoes.com/celebrity/paul_goddard"},{"@type":"Person","name":"Gloria Foster","sameAs":"https://www.rottentomatoes.com/celebrity/gloria_foster","image":"https://resizing.flixster.com/8WPesWcBVTx0QJ4vHWBqvM4ije8=/540x720/v1.bjs1MjIyMTg7ajsxNzk2MTsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"David Aston","sameAs":"https://www.rottentomatoes.com/celebrity/david_aston","image":"https://resizing.flixster.com/_h8sPqgNJGtyRM_ZexoiEDDgmTM=/299x316/v1.bjs3NTk5NTc7ajsxNzk2MzsxMjAwOzI5OTszMTY"},{"@type":"Person","name":"Marc Gray","sameAs":"https://www.rottentomatoes.com/celebrity/marc_gray"},{"@type":"Person","name":"Anthony Ray Parker","sameAs":"https://www.rottentomatoes.com/celebrity/anthony-ray-parker","image":"https://resizing.flixster.com/W0y6OKU-ILeFah83DS-tRk2FjIo=/540x720/v1.bjs3NzAwMDg7ajsxNzk2MzsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"Ada Nicodemou","sameAs":"https://www.rottentomatoes.com/celebrity/ada_nicodemou","image":"https://resizing.flixster.com/cjEyQdIOheFCDtfQkvh-KKZcjBw=/640x960/v1.bjs5MDE1ODI7ajsxNzk2NTsxMjAwOzY0MDs5NjA"},{"@type":"Person","name":"Denni Gordon","sameAs":"https://www.rottentomatoes.com/celebrity/denni_gordon"},{"@type":"Person","name":"Rowan Witt","sameAs":"https://www.rottentomatoes.com/celebrity/rowan_witt"},{"@type":"Person","name":"Elenor Witt","sameAs":"https://www.rottentomatoes.com/celebrity/elenor_witt"},{"@type":"Person","name":"Tamara Brown","sameAs":"https://www.rottentomatoes.com/celebrity/tamara_brown"},{"@type":"Person","name":"Janaya Pender","sameAs":"https://www.rottentomatoes.com/celebrity/janaya_pender"},{"@type":"Person","name":"Adryn White","sameAs":"https://www.rottentomatoes.com/celebrity/adryn_white"},{"@type":"Person","name":"Natalie Tjen","sameAs":"https://www.rottentomatoes.com/celebrity/natalie_tjen"},{"@type":"Person","name":"Bill Young","sameAs":"https://www.rottentomatoes.com/celebrity/bill-young"},{"@type":"Person","name":"David O'Connor","sameAs":"https://www.rottentomatoes.com/celebrity/david_oconnor"},{"@type":"Person","name":"Jeremy Ball","sameAs":"https://www.rottentomatoes.com/celebrity/jeremy_ball"},{"@type":"Person","name":"Fiona Johnson","sameAs":"https://www.rottentomatoes.com/celebrity/fiona_johnson"},{"@type":"Person","name":"Harry Lawrence","sameAs":"https://www.rottentomatoes.com/celebrity/harry_lawrence"},{"@type":"Person","name":"Steve Dodd","sameAs":"https://www.rottentomatoes.com/celebrity/steve_dodd","image":"https://resizing.flixster.com/C6_zkf1wPjIsbKJjAlrvF8TDrxE=/300x450/v1.bjs3ODYwMzM7ajsxNzk2NDsxMjAwOzMwMDs0NTA"},{"@type":"Person","name":"Luke Quinton","sameAs":"https://www.rottentomatoes.com/celebrity/luke_quinton"},{"@type":"Person","name":"Lawrence Woodward","sameAs":"https://www.rottentomatoes.com/celebrity/lawrence_woodward","image":"https://resizing.flixster.com/n7uEIfqqpZt69BAn9nb7Fue0Zks=/300x450/v1.bjs3NzcxMTQ7ajsxNzk2MzsxMjAwOzMwMDs0NTA"},{"@type":"Person","name":"Michael Butcher","sameAs":"https://www.rottentomatoes.com/celebrity/michael_butcher"},{"@type":"Person","name":"Bernard Ledger","sameAs":"https://www.rottentomatoes.com/celebrity/bernard_ledger"},{"@type":"Person","name":"Robert Simper","sameAs":"https://www.rottentomatoes.com/celebrity/robert_simper"},{"@type":"Person","name":"Chris Scott","sameAs":"https://www.rottentomatoes.com/celebrity/chris_scott"},{"@type":"Person","name":"Nigel Harbach","sameAs":"https://www.rottentomatoes.com/celebrity/nigel_harbach"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"},{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"}],"character":["Neo","Morpheus","Trinity","Cypher","Agent Smith","Switch","Tank","Agent Jones","Apoc","Mouse","Agent Brown","Oracle","Rhineheart","Choi","Dozer","DuJour","Priestess","Spoon Boy","Potential","Potential","Potential","Potential","Potential","Lieutenant","FedEx Man","Business Man","Woman in Red","Old Man","Blind Man","Security Guard","Guard","Cop Who Captures Neo","Big Cop","Cop","Cop","Parking Cop","Window Cleaner","Window Cleaner"],"director":[{"@type":"Person","name":"The Wachowski Brothers","sameAs":"https://www.rottentomatoes.com/celebrity/the_wachowski_brothers"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"},{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"}],"author":[{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"}],"genre":["Action & Adventure","Science Fiction & Fantasy"]}
+                {"@context":"http://schema.org","@type":"Movie","name":"The Matrix","contentRating":"R","dateModified":"2019-01-30T06:18:39-08:00","dateCreated":"2005-11-20T14:49:49-08:00","url":"https://www.rottentomatoes.com/m/matrix","datePublished":null,"productionCompany":{"@type":"Organization","name":"Warner Bros. Pictures"},"aggregateRating":{"@type":"AggregateRating","name":"Tomatometer","description":"The Tomatometer rating – based on the published opinions of hundreds of film and television critics – is a trusted measurement of movie and TV programming quality for millions of moviegoers. It represents the percentage of professional critic reviews that are positive for a given film or television show.","bestRating":"100","worstRating":"0","ratingValue":88,"reviewCount":144},"review":[{"@type":"Review","reviewBody":"A technologically stunning movie that furthers the genre and features crowd-pleasing performances to go with the frequent scenes of gunplay and violence. ","url":"http://www.hollywoodreporter.com/news/matrix-read-thrs-1999-review-743651","dateCreated":"2015-10-03T05:55:12-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-hunter","name":"David Hunter"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Hollywood Reporter","url":"https://www.rottentomatoes.com/source-213"}},{"@type":"Review","reviewBody":"Extremely violent, extremely preposterous, extremely entertaining, The Matrix succeeds at two extremely difficult tasks: as a vast, exciting virtual-reality movie and as a defibrillator for Keanu Reeves' big screen career.","url":"http://community.seattletimes.nwsource.com/archive/?date=19990331&slug=2952431","dateCreated":"2013-10-21T10:50:44-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/keith-simanton","name":"Keith Simanton"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Seattle Times","url":"https://www.rottentomatoes.com/source-505"}},{"@type":"Review","reviewBody":"The movie is nonsense, but it does achieve a brazenly chic high style -- black-on-black, airborne, spasmodic.","url":null,"dateCreated":"2013-10-21T09:57:26-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-denby","name":"David Denby"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"New Yorker","url":"https://www.rottentomatoes.com/source-924"}},{"@type":"Review","reviewBody":"The Wachowskis and cinematographer Bill Pope take advantage of currently available technical trickery to create visually distinct levels of reality while setting high-speed cameras in motion to make the action sequences particularly dynamic and fluid.","url":"http://articles.chicagotribune.com/1999-03-31/features/9903310365_1_neo-matrix-bound","dateCreated":"2013-10-21T09:43:20-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/mark-caro","name":"Mark Caro"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Chicago Tribune","url":"https://www.rottentomatoes.com/source-68"}},{"@type":"Review","reviewBody":"Where other films are done in by the freedom offered by computer effects, The Matrix integrates them beautifully.","url":null,"dateCreated":"2013-10-21T09:39:10-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/keith-phipps","name":"Keith Phipps"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"AV Club","url":"https://www.rottentomatoes.com/source-833"}},{"@type":"Review","reviewBody":"With an arsenal of cool f/x at their disposal, they've come up with a dizzyingly enjoyable junk movie that has just enough on its mind to keep the pleasure from being a guilty one.","url":"http://www.newsweek.com/what-cyberdreams-may-come-164746","dateCreated":"2007-10-31T20:15:21-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/david-ansen","name":"David Ansen"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Newsweek","url":"https://www.rottentomatoes.com/source-339"}},{"@type":"Review","reviewBody":"Full to the brim with eye-popping effects and \"How'd they do that?\" stuntwork, it yearns to have audiences be utterly enraptured in its created reality.","url":"http://www.zakiscorner.com/2014/04/zakis-original-review-matrix.html","dateCreated":"2018-11-16T04:55:21-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/zaki-hasan","name":"Zaki Hasan"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Zaki's Corner","url":"https://www.rottentomatoes.com/source-3251"}},{"@type":"Review","reviewBody":"The Matrix embedded itself in pop culture so thoroughly that it's easy to forget how different it was when it first arrived.","url":"http://cinema-stache.com/movies-for-the-resistance-the-matrix/","dateCreated":"2017-08-22T06:12:16-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/rob-vaux","name":"Rob Vaux"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinema-stache","url":"https://www.rottentomatoes.com/source-2712"}},{"@type":"Review","reviewBody":"The Matrix has become such a touchstone of American pop culture-referenced, copied, parodied, and parroted)-that it's hard to remember just how new and different and distinctive it was when it debuted in 1999.","url":"http://streamondemandathome.com/matrix-trilogy-amazon-prime-streaming-vod/","dateCreated":"2016-08-21T11:37:52-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/sean-axmaker","name":"Sean Axmaker"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Seanax.com","url":"https://www.rottentomatoes.com/source-1938"}},{"@type":"Review","reviewBody":"The effects are astonishing. It's funny, it's dark, it's smart and it's filled with guns, lots of guns. A landmark film and quite possibly the ultimate expression of cyberpunk.","url":"http://www.film4.com/reviews/1999/the-matrix","dateCreated":"2013-10-21T10:47:38-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/film4-staff","name":"Film4 Staff"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Film4","url":"https://www.rottentomatoes.com/source-1396"}},{"@type":"Review","reviewBody":"Hang on tight for a real mind-blower, with astonishing visual effects, frightening monsters and exciting stunt fights.","url":"http://articles.sun-sentinel.com/1999-03-31/lifestyle/9903300682_1_matrix-virtual-reality-reality-bytes","dateCreated":"2013-10-21T10:42:40-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/tom-sander","name":"Tom Sander"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"South Florida Sun-Sentinel","url":"https://www.rottentomatoes.com/source-506"}},{"@type":"Review","reviewBody":"The Matrix is a movie experience like no other, and experience is what it's all about. It explodes with dazzling visuals and a transcendent sense of excitement.","url":"http://articles.baltimoresun.com/1999-03-31/features/9903310350_1_called-the-matrix-named-morpheus-agent-smith","dateCreated":"2013-10-21T10:39:55-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/chris-kridler","name":"Chris Kridler"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Baltimore Sun","url":"https://www.rottentomatoes.com/source-36"}},{"@type":"Review","reviewBody":"Thematically complex, yet intelligently integrating eastern philosophy, Lewis Carroll and ancient mysticism.","url":"http://www.radiotimes.com/film/rk5b/the-matrix?ref=Article.TagBottom","dateCreated":"2013-10-21T10:03:45-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/alan-jones","name":"Alan Jones"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Radio Times","url":"https://www.rottentomatoes.com/source-2290"}},{"@type":"Review","reviewBody":"Writer/director siblings the Wachowskis have gone further with the action genre than you'd have ever thought possible.","url":"http://www.totalfilm.com/reviews/cinema/the-matrix","dateCreated":"2013-10-21T10:01:26-07:00","author":{"@type":"Person","url":"","name":"NA"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Total Film","url":"https://www.rottentomatoes.com/source-451"}},{"@type":"Review","reviewBody":"The Matrix is tough to explain, but then how much explaining does an amusement park ride require?","url":"http://www.people.com/people/archive/article/0,,20127839,00.html","dateCreated":"2013-10-21T10:00:12-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/leah-rozen","name":"Leah Rozen"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"People Magazine","url":"https://www.rottentomatoes.com/source-856"}},{"@type":"Review","reviewBody":"Inspired by different sources (including Japanese anime), The Matrix is a new kind of movie, a visionary mixture of technology, philosophy and thrilling action.","url":"http://www.emanuellevy.com/review/matrix-the-1999/","dateCreated":"2012-07-01T07:05:09-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/emanuel-levy","name":"Emanuel Levy"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"EmanuelLevy.Com","url":"https://www.rottentomatoes.com/source-1626"}},{"@type":"Review","reviewBody":"It's that balance between blockbuster-style action sequences and in-depth philosophical undertones that I've always admired about The Matrix.","url":"http://www.notcoming.com/reviews/thematrix/","dateCreated":"2011-01-26T21:15:04-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/leo-goldsmith","name":"Leo Goldsmith"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Not Coming to a Theater Near You","url":"https://www.rottentomatoes.com/source-974"}},{"@type":"Review","reviewBody":"Intense, but many teens will be able to handle it.","url":"http://www.commonsensemedia.org/movie-reviews/Matrix.html ","dateCreated":"2010-12-28T12:16:35-08:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/nell-minow","name":"Nell Minow"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Common Sense Media","url":"https://www.rottentomatoes.com/source-1682"}},{"@type":"Review","reviewBody":"Exemplifies the idea that a sufficiently cool outcome justifies all of the tortured narrative it takes to get there.","url":"http://antagonie.blogspot.com/2010/07/blockbuster-history-mindfcking.html","dateCreated":"2010-07-21T18:06:16-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/tim-brayton","name":"Tim Brayton"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Antagony & Ecstasy","url":"https://www.rottentomatoes.com/source-1900"}},{"@type":"Review","reviewBody":"Other than some caveats, this is an innovative and original science fiction entry...","url":"http://cinemacrazed.wordpress.com/2000/05/05/the-matrix-1999/","dateCreated":"2009-04-28T20:15:50-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/felix-vasquez-jr","name":"Felix Vasquez Jr."},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinema Crazed","url":"https://www.rottentomatoes.com/source-1879"}},{"@type":"Review","reviewBody":"The original Matrix stands perfectly well on its own, despite the fact that the filmmakers went on with second and third episodes.","url":"http://www.dvdtown.com/reviews/blu-ray-matrix-the/6880","dateCreated":"2009-04-06T03:36:32-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/john-j-puccio","name":"John J. Puccio"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Movie Metropolis","url":"https://www.rottentomatoes.com/source-745"}},{"@type":"Review","reviewBody":"Dimension-hopping has never been so exhilarating and breathlessly lyrical as brilliant visuals and bracing Hong Kong action stunts punch through lengthy streams of technobabble.","url":"http://www.newsreview.com/sacramento/Content?oid=6519","dateCreated":"2008-08-06T20:16:06-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/mark-halverson","name":"Mark Halverson"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Sacramento News & Review","url":"https://www.rottentomatoes.com/source-599"}},{"@type":"Review","reviewBody":"The surprise sleeper success of 1999, this ingenious science fiction thriller easily surpassed The Phantom Menace.","url":"http://cinefantastiqueonline.com/1999/06/01/film-review-the-matrix-1999","dateCreated":"2008-07-15T14:24:41-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/steve-biodrowski","name":"Steve Biodrowski"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"Cinefantastique","url":"https://www.rottentomatoes.com/source-2144"}},{"@type":"Review","reviewBody":"The paranoid details of the premise are thoroughly worked out; the characters and motives, much less so.","url":"http://efilmcritic.com/review.php?movie=722&reviewer=416","dateCreated":"2008-03-11T13:28:59-07:00","author":{"@type":"Person","url":"https://www.rottentomatoes.com/critic/rob-gonsalves","name":"Rob Gonsalves"},"reviewRating":{"@type":"Rating","bestRating":"1","worstRating":"-1","ratingValue":1},"publisher":{"@type":"Organization","name":"eFilmCritic.com","url":"https://www.rottentomatoes.com/source-141"}}],"image":"https://resizing.flixster.com/VpOcmXnrMG1pZEbHGYeD7h2HH8Y=/740x290/v1.bjsxMjIyNTE7ajsxNzk1NjsxMjAwOzMwMDA7MTUwMA","actors":[{"@type":"Person","name":"Keanu Reeves","sameAs":"https://www.rottentomatoes.com/celebrity/keanu_reeves","image":"https://resizing.flixster.com/fs6CbJwfb8Nkigl0Ud8KaBmEB8I=/448x600/v1.cjsxMDYyODtqOzE3OTU1OzEyMDA7NDQ4OzYwMA"},{"@type":"Person","name":"Laurence Fishburne","sameAs":"https://www.rottentomatoes.com/celebrity/laurence_fishburne","image":"https://resizing.flixster.com/XEQT8mc1waKBZ6UL6xC071FnSog=/275x230/v1.cjs0MDU2MjtqOzE3OTU1OzEyMDA7Mjc1OzIzMA"},{"@type":"Person","name":"Carrie-Anne Moss","sameAs":"https://www.rottentomatoes.com/celebrity/carrieanne_moss","image":"https://resizing.flixster.com/JaF4yaYXOOC2Wsv7V6wEfV2UaaY=/504x652/v1.cjsxOTM0MDtqOzE3OTU1OzEyMDA7NTA0OzY1Mg"},{"@type":"Person","name":"Joe Pantoliano","sameAs":"https://www.rottentomatoes.com/celebrity/joe_pantoliano","image":"https://resizing.flixster.com/QrpVScax1yOb1lsl9wAwqMotaAc=/540x720/v1.bjs3OTc5MzI7ajsxNzk2NDsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"Hugo Weaving","sameAs":"https://www.rottentomatoes.com/celebrity/hugo_weaving","image":"https://resizing.flixster.com/ZftaoMRkYGuNa7KjEAMUEFasVvU=/1000x1500/v1.bjs3ODYyODA7ajsxNzk2NDsxMjAwOzEwMDA7MTUwMA"},{"@type":"Person","name":"Belinda McClory","sameAs":"https://www.rottentomatoes.com/celebrity/belinda-mcclory","image":"https://resizing.flixster.com/R9u_WLz0lUjMqMA-cLKTj9Vvu28=/298x370/v1.bjs3NzAyODY7ajsxNzk2MzsxMjAwOzI5ODszNzA"},{"@type":"Person","name":"Marcus Chong","sameAs":"https://www.rottentomatoes.com/celebrity/marcus_chong","image":"https://resizing.flixster.com/WghLL0_-Ev1ssdn_s8_JxdX552M=/367x400/v1.bjs3NzU0NTE7ajsxNzk2MzsxMjAwOzM2Nzs0MDA"},{"@type":"Person","name":"Robert Taylor (VII)","sameAs":"https://www.rottentomatoes.com/celebrity/771086972","image":"https://resizing.flixster.com/nkMsr7R6iyQCGiWPfkhmYKArq10=/214x317/v1.cjs0Mjk2NztqOzE3OTU1OzEyMDA7MjE0OzMxNw"},{"@type":"Person","name":"Julian \"Sonny\" Arahanga","sameAs":"https://www.rottentomatoes.com/celebrity/julian_sonny_arahanga"},{"@type":"Person","name":"Matt Doran","sameAs":"https://www.rottentomatoes.com/celebrity/matt-doran","image":"https://resizing.flixster.com/Nt5htdYfpHZteBO1yBISnmmwAkk=/300x200/v1.bjsyOTE0MjU7ajsxNzk1ODsxMjAwOzMwMDsyMDA"},{"@type":"Person","name":"Paul Goddard","sameAs":"https://www.rottentomatoes.com/celebrity/paul_goddard"},{"@type":"Person","name":"Gloria Foster","sameAs":"https://www.rottentomatoes.com/celebrity/gloria_foster","image":"https://resizing.flixster.com/8WPesWcBVTx0QJ4vHWBqvM4ije8=/540x720/v1.bjs1MjIyMTg7ajsxNzk2MTsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"David Aston","sameAs":"https://www.rottentomatoes.com/celebrity/david_aston","image":"https://resizing.flixster.com/_h8sPqgNJGtyRM_ZexoiEDDgmTM=/299x316/v1.bjs3NTk5NTc7ajsxNzk2MzsxMjAwOzI5OTszMTY"},{"@type":"Person","name":"Marc Gray","sameAs":"https://www.rottentomatoes.com/celebrity/marc_gray"},{"@type":"Person","name":"Anthony Ray Parker","sameAs":"https://www.rottentomatoes.com/celebrity/anthony-ray-parker","image":"https://resizing.flixster.com/W0y6OKU-ILeFah83DS-tRk2FjIo=/540x720/v1.bjs3NzAwMDg7ajsxNzk2MzsxMjAwOzU0MDs3MjA"},{"@type":"Person","name":"Ada Nicodemou","sameAs":"https://www.rottentomatoes.com/celebrity/ada_nicodemou","image":"https://resizing.flixster.com/cjEyQdIOheFCDtfQkvh-KKZcjBw=/640x960/v1.bjs5MDE1ODI7ajsxNzk2NTsxMjAwOzY0MDs5NjA"},{"@type":"Person","name":"Denni Gordon","sameAs":"https://www.rottentomatoes.com/celebrity/denni_gordon"},{"@type":"Person","name":"Rowan Witt","sameAs":"https://www.rottentomatoes.com/celebrity/rowan_witt"},{"@type":"Person","name":"Elenor Witt","sameAs":"https://www.rottentomatoes.com/celebrity/elenor_witt"},{"@type":"Person","name":"Tamara Brown","sameAs":"https://www.rottentomatoes.com/celebrity/tamara_brown"},{"@type":"Person","name":"Janaya Pender","sameAs":"https://www.rottentomatoes.com/celebrity/janaya_pender"},{"@type":"Person","name":"Adryn White","sameAs":"https://www.rottentomatoes.com/celebrity/adryn_white"},{"@type":"Person","name":"Natalie Tjen","sameAs":"https://www.rottentomatoes.com/celebrity/natalie_tjen"},{"@type":"Person","name":"Bill Young","sameAs":"https://www.rottentomatoes.com/celebrity/bill-young"},{"@type":"Person","name":"David O'Connor","sameAs":"https://www.rottentomatoes.com/celebrity/david_oconnor"},{"@type":"Person","name":"Jeremy Ball","sameAs":"https://www.rottentomatoes.com/celebrity/jeremy_ball"},{"@type":"Person","name":"Fiona Johnson","sameAs":"https://www.rottentomatoes.com/celebrity/fiona_johnson"},{"@type":"Person","name":"Harry Lawrence","sameAs":"https://www.rottentomatoes.com/celebrity/harry_lawrence"},{"@type":"Person","name":"Steve Dodd","sameAs":"https://www.rottentomatoes.com/celebrity/steve_dodd","image":"https://resizing.flixster.com/C6_zkf1wPjIsbKJjAlrvF8TDrxE=/300x450/v1.bjs3ODYwMzM7ajsxNzk2NDsxMjAwOzMwMDs0NTA"},{"@type":"Person","name":"Luke Quinton","sameAs":"https://www.rottentomatoes.com/celebrity/luke_quinton"},{"@type":"Person","name":"Lawrence Woodward","sameAs":"https://www.rottentomatoes.com/celebrity/lawrence_woodward","image":"https://resizing.flixster.com/n7uEIfqqpZt69BAn9nb7Fue0Zks=/300x450/v1.bjs3NzcxMTQ7ajsxNzk2MzsxMjAwOzMwMDs0NTA"},{"@type":"Person","name":"Michael Butcher","sameAs":"https://www.rottentomatoes.com/celebrity/michael_butcher"},{"@type":"Person","name":"Bernard Ledger","sameAs":"https://www.rottentomatoes.com/celebrity/bernard_ledger"},{"@type":"Person","name":"Robert Simper","sameAs":"https://www.rottentomatoes.com/celebrity/robert_simper"},{"@type":"Person","name":"Chris Scott","sameAs":"https://www.rottentomatoes.com/celebrity/chris_scott"},{"@type":"Person","name":"Nigel Harbach","sameAs":"https://www.rottentomatoes.com/celebrity/nigel_harbach"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"},{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"}],"character":["Neo","Morpheus","Trinity","Cypher","Agent Smith","Switch","Tank","Agent Jones","Apoc","Mouse","Agent Brown","Oracle","Rhineheart","Choi","Dozer","DuJour","Priestess","Spoon Boy","Potential","Potential","Potential","Potential","Potential","Lieutenant","FedEx Man","Business Man","Woman in Red","Old Man","Blind Man","Security Guard","Guard","Cop Who Captures Neo","Big Cop","Cop","Cop","Parking Cop","Window Cleaner","Window Cleaner"],"director":[{"@type":"Person","name":"The Wachowski Brothers","sameAs":"https://www.rottentomatoes.com/celebrity/the_wachowski_brothers"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"},{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"}],"author":[{"@type":"Person","name":"Lana Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/larry_wachowski","image":"https://resizing.flixster.com/ZfxQ97Am5H5CmoYRmWhlqq5J1T8=/214x317/v1.cjs0MjkwODtqOzE3OTU1OzEyMDA7MjE0OzMxNw"},{"@type":"Person","name":"Lilly Wachowski","sameAs":"https://www.rottentomatoes.com/celebrity/andy_wachowski","image":"https://resizing.flixster.com/77-usTpGHOqOo_5i3u0b8NsruIM=/505x652/v1.cjsyNjU5O2o7MTc5NTU7MTIwMDs1MDU7NjUy"}],"genre":["Action & Adventure","Science Fiction & Fantasy"]}
                 </script>
             
         
@@ -603,7 +603,7 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/good_trouble/s01">
+        <a href="/tv/schitts_creek/s05">
             
                 <span class="icon tiny fresh"></span>
                 <span class="tMeterScore">100%</span>
@@ -611,9 +611,9 @@
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/good_trouble/s01">
+        <a href="/tv/schitts_creek/s05">
             
-                Good Trouble
+                Schitt&#39;s Creek
             
         </a>
     </td>
@@ -624,7 +624,7 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/corporate/s02">
+        <a href="/tv/you_re_the_worst/s05">
             
                 <span class="icon tiny fresh"></span>
                 <span class="tMeterScore">100%</span>
@@ -632,9 +632,9 @@
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/corporate/s02">
+        <a href="/tv/you_re_the_worst/s05">
             
-                Corporate
+                You&#39;re the Worst
             
         </a>
     </td>
@@ -645,17 +645,17 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/project_blue_book/s01">
+        <a href="/tv/suits/s08">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">63%</span>
+                <span class="tMeterScore">100%</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/project_blue_book/s01">
+        <a href="/tv/suits/s08">
             
-                Project Blue Book
+                Suits
             
         </a>
     </td>
@@ -666,38 +666,17 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/roswell_new_mexico/s01">
-            
-                <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">53%</span>
-            
-        </a>
-    </td>
-    <td class="middle_col">
-        <a href="/tv/roswell_new_mexico/s01">
-            
-                Roswell, New Mexico
-            
-        </a>
-    </td>
-</tr>
-
-                                             
-                                                
-                                                
-                                                <tr class="tv_show_tr tvTopListTitle">
-    <td class="left_col">
-        <a href="/tv/flash/s05">
+        <a href="/tv/all_american/s01">
             
                 <span class="icon tiny certified_fresh"></span>
-                <span class="tMeterScore">93%</span>
+                <span class="tMeterScore">91%</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/flash/s05">
+        <a href="/tv/all_american/s01">
             
-                The Flash
+                All American
             
         </a>
     </td>
@@ -708,16 +687,17 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/drunk_history/s06">
+        <a href="/tv/vikings_2013/s05">
             
-                <span class="tMeterIcon tiny noRating">No Score Yet</span>
+                <span class="icon tiny fresh"></span>
+                <span class="tMeterScore">90%</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/drunk_history/s06">
+        <a href="/tv/vikings_2013/s05">
             
-                Drunk History
+                Vikings
             
         </a>
     </td>
@@ -728,16 +708,140 @@
                                                 
                                                 <tr class="tv_show_tr tvTopListTitle">
     <td class="left_col">
-        <a href="/tv/teachers/s03">
+        <a href="/tv/schooled/s01">
+            
+                <span class="icon tiny fresh"></span>
+                <span class="tMeterScore">83%</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/schooled/s01">
+            
+                Schooled
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/single_parents/s01">
+            
+                <span class="icon tiny fresh"></span>
+                <span class="tMeterScore">73%</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/single_parents/s01">
+            
+                Single Parents
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/deadly_class/s01">
+            
+                <span class="icon tiny rotten"></span>
+                <span class="tMeterScore">57%</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/deadly_class/s01">
+            
+                Deadly Class
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/the_masked_singer/s01">
+            
+                <span class="icon tiny rotten"></span>
+                <span class="tMeterScore">50%</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/the_masked_singer/s01">
+            
+                The Masked Singer
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/match_game/s04">
             
                 <span class="tMeterIcon tiny noRating">No Score Yet</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/teachers/s03">
+        <a href="/tv/match_game/s04">
             
-                Teachers
+                Match Game
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/i_m_sorry/s02">
+            
+                <span class="tMeterIcon tiny noRating">No Score Yet</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/i_m_sorry/s02">
+            
+                I&#39;m Sorry
+            
+        </a>
+    </td>
+</tr>
+
+                                             
+                                                
+                                                
+                                                <tr class="tv_show_tr tvTopListTitle">
+    <td class="left_col">
+        <a href="/tv/the-goldbergs/s06">
+            
+                <span class="tMeterIcon tiny noRating">No Score Yet</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/the-goldbergs/s06">
+            
+                The Goldbergs
             
         </a>
     </td>
@@ -849,7 +953,7 @@
         <a href="/tv/black_mirror/52530">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">73%</span>
+                <span class="tMeterScore">71%</span>
             
         </a>
     </td>
@@ -1209,21 +1313,21 @@
                                         <div class="newsContainer">
                                             
                                                     <div class="newsContainerItem">
-                                                        <a href="https://editorial.rottentomatoes.com/article/chucky-heads-to-television-project-runway-and-more-tv-news/" class="articleLink unstyled">
-                                                            <div class="newsPhoto js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2018/11/09132541/Chucky-Rep.jpg" data-bg-image="true"></div>
+                                                        <a href="https://editorial.rottentomatoes.com/article/spock-star-trek-discovery-arrival-and-stephen-king-the-stand-remake/" class="articleLink unstyled">
+                                                            <div class="newsPhoto js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/01/15183524/star-trek-discovery-s2-spock-600x314.jpg" data-bg-image="true"></div>
                                                             <div class="newsTitleContainer">
                                                                 <div class="newsTitle">
-                                                                    Chucky Heads to Television, <em>Project Runway</em> Minus Heidi Klum and Tim Gunn, and More TV News
+                                                                    Spock&#8217;s <em>Star Trek: Discovery</em> Arrival Will Surprise, While Stephen King&#8217;s <em>The Stand</em> Heads (Back) to the Small Screen
                                                                 </div>
                                                             </div>
                                                         </a>
                                             
                                                     <div class="newsContainerItem">
-                                                        <a href="https://editorial.rottentomatoes.com/article/everything-we-know-about-dcs-birds-of-prey-so-far/" class="articleLink unstyled">
-                                                            <div class="newsPhoto js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/01/29150954/Birds_of_Prey_What_We_Know_Rep.jpg" data-bg-image="true"></div>
+                                                        <a href="https://editorial.rottentomatoes.com/article/2019-tv-premiere-dates-calendar/" class="articleLink unstyled">
+                                                            <div class="newsPhoto js-lazyLoad" data-src="https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2019/01/30141744/twilight-zone-title-600x314.jpg" data-bg-image="true"></div>
                                                             <div class="newsTitleContainer">
                                                                 <div class="newsTitle">
-                                                                    Everything We Know About DC&#8217;s <em>Birds Of Prey</em> (So Far)
+                                                                    2019 TV Premiere Dates Calendar
                                                                 </div>
                                                             </div>
                                                         </a>
@@ -1578,7 +1682,7 @@
         <a href="/m/arctic_2019">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">81%</span>
+                <span class="tMeterScore">83%</span>
             
         </a>
     </td>
@@ -1605,7 +1709,7 @@
         <a href="/m/velvet_buzzsaw">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">82%</span>
+                <span class="tMeterScore">79%</span>
             
         </a>
     </td>
@@ -1691,7 +1795,7 @@
         <a href="/m/the_upside">
             
                 <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">40%</span>
+                <span class="tMeterScore">39%</span>
             
         </a>
     </td>
@@ -1829,7 +1933,7 @@
         <a href="/m/serenity_2019">
             
                 <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">22%</span>
+                <span class="tMeterScore">23%</span>
             
         </a>
     </td>
@@ -1908,7 +2012,7 @@
         <a href="/m/the_lego_movie_2_the_second_part">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">90%</span>
+                <span class="tMeterScore">91%</span>
             
         </a>
     </td>
@@ -2116,7 +2220,7 @@
         <a href="/m/the_nutcracker_and_the_four_realms">
             
                 <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">35%</span>
+                <span class="tMeterScore">34%</span>
             
         </a>
     </td>
@@ -2231,7 +2335,7 @@
         <a href="/m/the_nutcracker_and_the_four_realms">
             
                 <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">35%</span>
+                <span class="tMeterScore">34%</span>
             
         </a>
     </td>
@@ -2283,7 +2387,7 @@
             
             <tr class="tv_show_tr tvList1">
     <td class="left_col">
-        <a href="/tv/good_trouble/s01">
+        <a href="/tv/schitts_creek/s05">
             
                 <span class="icon tiny fresh"></span>
                 <span class="tMeterScore">100%</span>
@@ -2291,9 +2395,9 @@
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/good_trouble/s01">
+        <a href="/tv/schitts_creek/s05">
             
-                Good Trouble
+                Schitt&#39;s Creek
             
         </a>
     </td>
@@ -2304,7 +2408,7 @@
             
             <tr class="tv_show_tr tvList1">
     <td class="left_col">
-        <a href="/tv/corporate/s02">
+        <a href="/tv/you_re_the_worst/s05">
             
                 <span class="icon tiny fresh"></span>
                 <span class="tMeterScore">100%</span>
@@ -2312,9 +2416,9 @@
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/corporate/s02">
+        <a href="/tv/you_re_the_worst/s05">
             
-                Corporate
+                You&#39;re the Worst
             
         </a>
     </td>
@@ -2325,17 +2429,17 @@
             
             <tr class="tv_show_tr tvList1">
     <td class="left_col">
-        <a href="/tv/project_blue_book/s01">
+        <a href="/tv/suits/s08">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">63%</span>
+                <span class="tMeterScore">100%</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/project_blue_book/s01">
+        <a href="/tv/suits/s08">
             
-                Project Blue Book
+                Suits
             
         </a>
     </td>
@@ -2346,38 +2450,38 @@
             
             <tr class="tv_show_tr tvList1">
     <td class="left_col">
-        <a href="/tv/roswell_new_mexico/s01">
-            
-                <span class="icon tiny rotten"></span>
-                <span class="tMeterScore">53%</span>
-            
-        </a>
-    </td>
-    <td class="middle_col">
-        <a href="/tv/roswell_new_mexico/s01">
-            
-                Roswell, New Mexico
-            
-        </a>
-    </td>
-</tr>
-
-         
-            
-            
-            <tr class="tv_show_tr tvList1">
-    <td class="left_col">
-        <a href="/tv/flash/s05">
+        <a href="/tv/all_american/s01">
             
                 <span class="icon tiny certified_fresh"></span>
-                <span class="tMeterScore">93%</span>
+                <span class="tMeterScore">91%</span>
             
         </a>
     </td>
     <td class="middle_col">
-        <a href="/tv/flash/s05">
+        <a href="/tv/all_american/s01">
             
-                The Flash
+                All American
+            
+        </a>
+    </td>
+</tr>
+
+         
+            
+            
+            <tr class="tv_show_tr tvList1">
+    <td class="left_col">
+        <a href="/tv/vikings_2013/s05">
+            
+                <span class="icon tiny fresh"></span>
+                <span class="tMeterScore">90%</span>
+            
+        </a>
+    </td>
+    <td class="middle_col">
+        <a href="/tv/vikings_2013/s05">
+            
+                Vikings
             
         </a>
     </td>
@@ -2487,7 +2591,7 @@
         <a href="/tv/black_mirror/52530">
             
                 <span class="icon tiny fresh"></span>
-                <span class="tMeterScore">73%</span>
+                <span class="tMeterScore">71%</span>
             
         </a>
     </td>
