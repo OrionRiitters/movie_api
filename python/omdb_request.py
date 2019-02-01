@@ -5,8 +5,8 @@ import json
 import tomatoes_request
 
 
-def omdb_get(*args):
-    get_res = requests.get('http://www.omdbapi.com/?apikey=c346dee9&y=1999&t=matrix')
+def omdb_get(omdb_url):
+    get_res = requests.get(omdb_url)
     json_res = get_res.text
     return json.loads(json_res)
 omdb_get()
