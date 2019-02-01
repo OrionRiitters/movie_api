@@ -1,25 +1,33 @@
-"""This script takes a URL from Rotten Tomatoes and writes its HTML contents to a file."""
+"""This script takes a URL specifying a film on Rotten Tomatoes and returns a dictionary containing two film ratings."""
 
-#TODO Instead of taking a static URL below, this script must take a url from another part
-# of the application. 
 import requests
 import os
-
-#TODO Error handling for requests.get(), put this into a function.
-
-request_url = "https://www.rottentomatoes.com/m/the_matrix"
-get_request = requests.get(request_url)
-html_text = get_request.text
-
-write_file = "tmp_tomatoes_file.txt"
-
-if os.path.exists(write_file):
-    os.remove("tmp_tomatoes_file.txt")
-else:
-    print(f'"{write_file}" does not exist..\nWriting new "{write_file}"..')
-
-f = open(write_file, 'xt')
-f.write(html_text)
+import re
+from bs4 import BeautifulSoup
 
 
-#TODO Just consolidate this with html_parser
+def scrape_scores(request_url):
+    html_text = ''
+
+    try:
+        get_request = requests.get(request_url)
+        html_text = get_request.text
+    except:
+        print('Unable to perform GET request on argument. Please check the URL supplied.')
+
+    soup = BeautifulSoup(html_text, 'html.parser')
+    json_block = str(soup.find_all(type='application/ld+json'))
+    reg_ex = re.compile(r'"ratingValue":.*?,')
+
+    try:
+        tomatometer = (reg_ex.findall(json_block)[0]).lstrip('"ratingValue:').rstrip(',') + '%'
+        audience_score = soup.find(class_='superPageFontColor', style='vertical-align:top').string
+
+        return {
+            'tomatometer': tomatometer,
+            'audience_score': audience_score
+        }
+    except IndexError:
+        print('Error parsing JSON. Either there is a problem with the URL supplied, or Rotten Tomatoes updated their HTML in a way that broke this.')
+
+#TODO Fix error handling to correctly raise errors
