@@ -5,11 +5,12 @@ import json
 import tomatoes_request
 
 
+#TODO Implement error handling
 def omdb_get(omdb_url):
     get_res = requests.get(omdb_url)
     json_res = get_res.text
     return json.loads(json_res)
-omdb_get()
+
 
 def condense_response(json_res):
     dict_condensed = {
@@ -24,7 +25,8 @@ def condense_response(json_res):
         'Actors': '',
         'Plot': '',
         'Production': '',
-        'Type': ''
+        'Type': '',
+        'Response': ''
     }
 
 # TODO I receive a syntax error when trying to turn this into a list comprehension.

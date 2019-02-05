@@ -5,7 +5,7 @@ class Serv(BaseHTTPRequestHandler):
 
     def do_GET(self):
         if self.path =='/':
-            self.path = '../index.html'
+            self.path = '/index.html'
         try:
             file_to_open = open(self.path[1:]).read()
             self.send_response(200)
@@ -20,11 +20,11 @@ class Serv(BaseHTTPRequestHandler):
 
 try:
 	server = HTTPServer(('', 8080), Serv)
-	print('Started httpserver on port ' , 8080, ', nice!')
+	print('Started httpserver on port 8080, nice!')
 	server.serve_forever()
 
 except KeyboardInterrupt:
-	print('You pressed ^C - shutting down server')
+	print(' You pressed ^C - shutting down server')
 	server.socket.close()
 	
 
