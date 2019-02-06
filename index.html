@@ -7,6 +7,7 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
         <link rel="stylesheet" href="style.css" type="text/css">
+        
     </head>
 
     <body>
@@ -18,7 +19,7 @@
         </div>
 
         <div class="mx-5">
-            <form>
+            <form id="the-form">
 
                 <label for="name">Name</label>
                 <input id="name" name="name-input" class="form-control" type="text" maxLength="70" required> <br>
@@ -56,26 +57,17 @@
                 <label for="special-requests">Special Requests:</label>
                 <textarea id="special-requests" class="form-control" rows="7" cols="70"></textarea>
 
-                <div>
-                    <input class="btn btn-primary mt-2" type="submit">
+                <div id="submit-form">
+                    <input class="btn btn-primary mt-2">
                 </div>
                 
             </form>
+
         </div>
 
+        <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/submit.js"></script>
 
     </body>
 </html>
-<!DOCTYPE html>
-<html>
-
-    <head>
-        <meta charset="utf-8">
-        <title>Hey!</title>
-    </head>
-
-    <body>
-        <h1>Index Page</h1>
-    </body>
-
-</html>
+ 

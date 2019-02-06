@@ -7,8 +7,8 @@ directory_prefix = '/'
 if uname()[0] == 'Windows':
     directory_prefix = '\\'
 
-""" This function creates a path to a specified file. Its first argument is the parent
-    folder followed by any number of children and lastly the desired file. """
+""" This function creates a path to a specified file. In order, its arguments are the parent
+    folder, followed by any number of children, followed by the desired file. """
 def access_file(*args):
     file_path = ''
     for arg in args:

@@ -6,9 +6,9 @@ import re
 from bs4 import BeautifulSoup
 
 
+#This method takes a url sent by the pytho
 def scrape_scores(request_url):
     html_text = ''
-
     try:
         get_request = requests.get(request_url)
         html_text = get_request.text
@@ -20,12 +20,14 @@ def scrape_scores(request_url):
     reg_ex = re.compile(r'"ratingValue":.*?,')
 
     try:
-        tomatometer = (reg_ex.findall(json_block)[0]).lstrip('"ratingValue:').rstrip(',') + '%'
+
+        raw_tomatometer = (reg_ex.findall(json_block)[0])
+        tomatometer = raw_tomatometer.lstrip('"ratingValue:').rstrip(',') + '%'
         audience_score = soup.find(class_='superPageFontColor', style='vertical-align:top').string
 
         return {
-            'tomatometer': tomatometer,
-            'audience_score': audience_score
+            'Tomatometer': tomatometer,
+            'Audience_Score': audience_score
         }
     except IndexError:
         print('Error parsing JSON. Either there is a problem with the URL supplied, or Rotten Tomatoes updated their HTML in a way that broke this.')
