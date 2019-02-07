@@ -4,21 +4,21 @@
         <title>Discover Information About Films!</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-        <link rel="stylesheet" href="style.css" type="text/css">
+
+        <link rel="stylesheet" href="assets/style.css">
+        <link rel="stylesheet" href="assets/custom-min.css">
         
     </head>
 
     <body>
 
         <div class="jumbotron py-5 text-center">
-            <p class="vertical-align">
+            <h5 class="vertical-align">
                 What movie are you curious about?
-            </p>
+            </h5>
         </div>
 
-        <div class="mx-5">
+        <div class="mx-3">
             <form id="the-form">
 
                 <label for="name">Title of Film</label>
@@ -27,12 +27,24 @@
                 <div id="submit-form">
                     <button class="btn btn-primary mt-2"> Retreive Info </button>
                 </div>
-                
+
+                <div id="movie-info-wrapper" class="row">
+                    <div id="left-column" class="col-md-6">
+
+                    </div>
+
+                    <div id="right-column" class="col-md-6">
+
+                    </div>
+
+                </div>
+
             </form>
 
         </div>
 
         <script src="js/jquery-3.3.1.min.js"></script>
+        <script src="js/json_to_html.js"></script>
         <script src="js/submit.js"></script>
 
     </body>
