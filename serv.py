@@ -4,10 +4,11 @@ from python import combine_dictionaries
 
 class Serv (BaseHTTPRequestHandler):
     
-
-
     def assemble_submit_response(self):
-        return combine_dictionaries.combine_dictionaries('https://www.rottentomatoes.com/m/matrix', 'http://www.omdbapi.com/?apikey=c346dee9&t=the+matrix')
+        print(self.path)
+        omdb_url = self.path.replace('/placeholder?', '')
+        print(omdb_url)
+        return combine_dictionaries.combine_dictionaries('https://www.rottentomatoes.com/m/matrix', omdb_url)
 
 
 
@@ -19,13 +20,17 @@ class Serv (BaseHTTPRequestHandler):
             write_info = open(self.path[1:]).read()
             self.send_response(200)
         except:
-            write_info = "File not found"
-            self.send_response(404)
+            print(self.path.split('?'[0]))
+            if self.path.split('?')[0] == '/placeholder':
+                write_info = self.assemble_submit_response()
+                print(self.path)
+                self.send_response(200)
+            else:
+                write_info = "File not found"
+                self.send_response(404)
 
         self.end_headers()
 
-        if self.path == '/queryResults.json':
-            write_info = self.assemble_submit_response()
         self.wfile.write(bytes(write_info, 'utf-8'))
 
 

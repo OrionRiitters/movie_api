@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Conference Registration</title>
+        <title>Discover Information About Films!</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
@@ -14,51 +14,18 @@
 
         <div class="jumbotron py-5 text-center">
             <p class="vertical-align">
-                Register for the conference! (Please)
+                What movie are you curious about?
             </p>
         </div>
 
         <div class="mx-5">
             <form id="the-form">
 
-                <label for="name">Name</label>
-                <input id="name" name="name-input" class="form-control" type="text" maxLength="70" required> <br>
-
-                <label for="password">Password</label>
-                <input id="password" name="password-input" class="form-control" type="password" required> <br>
-
-                <label for="email">Email</label>
-                <input id="email" name ="email-input" class="form-control" type="email" required> <br>
-
-                <label for="t-shirt">T-Shirt Size</label>
-                <select id="t-shirt" name="t-shirt-input" class="form-control" required>
-                    <option>Small</option>
-                    <option>Medium</option>
-                    <option>Large</option>
-                </select>
-
-                <p>
-                    <br>Would you like to receive emails from our sponsors?
-                </p>
-
-                <div class="sponsor-radio" required>
-                    <input name="sponsor-radio" id="sponsor-yes" type="radio">
-                    <Label for="sponsor-yes">Yes!</Label>
-                    <input name="sponsor-radio" id="sponsor-no" type="radio">
-                    <Label for="sponsor-no">No thanks</Label>
-                </div> <br>
-
-                <input name="checkbox-morning-value" id="checkbox-morning" type="checkbox">
-                <label for="checkbox-morning">I will be attending the morning session</label> <br>
-
-                <input name="checkbox-afternoon-value" id="checkbox-afternoon" type="checkbox">
-                <label for="checkbox-afternoon">I will be attending the afternoon session</label> <br>
-
-                <label for="special-requests">Special Requests:</label>
-                <textarea id="special-requests" class="form-control" rows="7" cols="70"></textarea>
+                <label for="name">Title of Film</label>
+                <input id="film-title" name="name-input" class="form-control" type="text"required> <br>
 
                 <div id="submit-form">
-                    <input class="btn btn-primary mt-2">
+                    <button class="btn btn-primary mt-2"> Retreive Info </button>
                 </div>
                 
             </form>
