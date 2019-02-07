@@ -1,5 +1,4 @@
-var submitData = JSON.stringify($('#the-form').serializeArray());
-console.log('asdfasdfasdfasdf');
+
 
 /*     Using $.get is easier
   $.ajax({
@@ -11,13 +10,28 @@ console.log('asdfasdfasdfasdf');
 });
 */
 
-$('#sponsor-yes').on('click', function(e) {
+$('#submit-form').on('click', function(e) {
     e.preventDefault();
-    $.get('/serv.py',
-          submitData,
-          (data) => {
-              console.log('Response from serv.py received..');
-              var dataObj = JSON.parse(data);
-              $('.jumbotron').val();
-          });
+
+    let submitData = $('#film-title').select()[0].value.split(' ');
+    let omdb_url = 'http://www.omdbapi.com/?apikey=c346dee9&t=';
+
+    submitData.forEach((data) => {
+        omdb_url += data + '+';
+    });
+
+    omdb_url = omdb_url.slice(0, omdb_url.length-1);
+    $.ajax(
+        'placeholder',
+        {
+         data: omdb_url
+        }
+    )
+        .done((data) => {
+            console.log('Response from serv.py received..');
+            console.log(data);
+            var dataObj = JSON.parse(data);
+            $('.jumbotron').val(JSON.stringify(dataObj));
+        });
 });
+

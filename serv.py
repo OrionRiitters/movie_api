@@ -1,19 +1,40 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
-import time
+import time, json
+from python import omdb_request
 
-class Serv(BaseHTTPRequestHandler):
+class Serv (BaseHTTPRequestHandler):
+    
+    def assemble_submit_response(self):
+        omdb_url = self.path.replace('/placeholder?', '')
+        omdb_raw = omdb_request.omdb_get(omdb_url)
+        omdb_dict = omdb_request.condense_response(omdb_raw)
+
+        return str(json.dumps(omdb_dict))
+
+
 
     def do_GET(self):
         if self.path =='/':
             self.path = '/index.html'
         try:
-            file_to_open = open(self.path[1:]).read()
+            print(self.path)
+            write_info = open(self.path[1:]).read()
             self.send_response(200)
         except:
-            file_to_open = "File not found"
-            self.send_response(404)
+            print(self.path.split('?'[0]))
+            if self.path.split('?')[0] == '/placeholder':
+                write_info = self.assemble_submit_response()
+                print(self.path)
+                self.send_response(200)
+            else:
+                write_info = "File not found"
+                self.send_response(404)
+
         self.end_headers()
-        self.wfile.write(bytes(file_to_open, 'utf-8'))
+
+        self.wfile.write(bytes(write_info, 'utf-8'))
+
+
 
 
 

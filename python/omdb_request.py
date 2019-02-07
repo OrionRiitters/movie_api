@@ -2,7 +2,7 @@
 
 import requests
 import json
-import tomatoes_request
+from python import tomatoes_request
 
 
 #TODO Implement error handling
@@ -26,7 +26,8 @@ def condense_response(json_res):
         'Plot': '',
         'Production': '',
         'Type': '',
-        'Response': ''
+        'Response': '',
+        'Ratings': ''
     }
 
 # TODO I receive a syntax error when trying to turn this into a list comprehension.
