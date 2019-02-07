@@ -1,14 +1,15 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
-import time
-from python import combine_dictionaries
+import time, json
+from python import omdb_request
 
 class Serv (BaseHTTPRequestHandler):
     
     def assemble_submit_response(self):
-        print(self.path)
         omdb_url = self.path.replace('/placeholder?', '')
-        print(omdb_url)
-        return combine_dictionaries.combine_dictionaries('https://www.rottentomatoes.com/m/matrix', omdb_url)
+        omdb_raw = omdb_request.omdb_get(omdb_url)
+        omdb_dict = omdb_request.condense_response(omdb_raw)
+
+        return str(json.dumps(omdb_dict))
 
 
 
