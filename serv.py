@@ -17,14 +17,11 @@ class Serv (BaseHTTPRequestHandler):
         if self.path =='/':
             self.path = '/index.html'
         try:
-            print(self.path)
             write_info = open(self.path[1:]).read()
             self.send_response(200)
         except:
-            print(self.path.split('?'[0]))
             if self.path.split('?')[0] == '/placeholder':
                 write_info = self.assemble_submit_response()
-                print(self.path)
                 self.send_response(200)
             else:
                 write_info = "File not found"
