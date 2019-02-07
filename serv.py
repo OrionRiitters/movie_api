@@ -1,19 +1,34 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import time
+from python import combine_dictionaries
 
-class Serv(BaseHTTPRequestHandler):
+class Serv (BaseHTTPRequestHandler):
+    
+
+
+    def assemble_submit_response(self):
+        return combine_dictionaries.combine_dictionaries('https://www.rottentomatoes.com/m/matrix', 'http://www.omdbapi.com/?apikey=c346dee9&t=the+matrix')
+
+
 
     def do_GET(self):
         if self.path =='/':
             self.path = '/index.html'
         try:
-            file_to_open = open(self.path[1:]).read()
+            print(self.path)
+            write_info = open(self.path[1:]).read()
             self.send_response(200)
         except:
-            file_to_open = "File not found"
+            write_info = "File not found"
             self.send_response(404)
+
         self.end_headers()
-        self.wfile.write(bytes(file_to_open, 'utf-8'))
+
+        if self.path == '/queryResults.json':
+            write_info = self.assemble_submit_response()
+        self.wfile.write(bytes(write_info, 'utf-8'))
+
+
 
 
 

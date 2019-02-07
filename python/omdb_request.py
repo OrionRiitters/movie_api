@@ -2,7 +2,7 @@
 
 import requests
 import json
-import tomatoes_request
+from python import tomatoes_request
 
 
 #TODO Implement error handling

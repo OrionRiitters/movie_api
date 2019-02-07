@@ -1,5 +1,4 @@
-var submitData = JSON.stringify($('#the-form').serializeArray());
-console.log('asdfasdfasdfasdf');
+var submitData = $('#the-form').serializeArray();
 
 /*     Using $.get is easier
   $.ajax({
@@ -13,11 +12,19 @@ console.log('asdfasdfasdfasdf');
 
 $('#sponsor-yes').on('click', function(e) {
     e.preventDefault();
-    $.get('/serv.py',
-          submitData,
-          (data) => {
-              console.log('Response from serv.py received..');
-              var dataObj = JSON.parse(data);
-              $('.jumbotron').val();
-          });
+    $.ajax(
+        'queryResults.json',
+        {
+         data: submitData,
+         processData: false
+        }
+    )
+        .done((data) => {
+            console.log('Response from serv.py received..');
+            console.log(data);
+            var dataObj = JSON.parse(data);
+            $('.jumbotron').val(JSON.stringify(dataObj));
+            console.log(JSON.stringify(dataObj))
+        });
 });
+
